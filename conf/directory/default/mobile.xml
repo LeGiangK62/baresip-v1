@@ -1,0 +1,7 @@
+<include>
+  <user id="mobile">
+    <params>
+      <param name="password" value="PASS"/>
+    </params>
+  </user>
+</include>

@@ -1,0 +1,13 @@
+2021-05-16 20:28:42.426542 [NOTICE] mod_logfile.c:192 New log started: /usr/local/freeswitch/log/freeswitch.log
+2021-05-16 20:28:42.426542 [CONSOLE] switch_core.c:3024 End existing sessions
+2021-05-16 20:28:42.426542 [CONSOLE] switch_core.c:3026 Clean up modules.
+2021-05-16 20:28:42.426542 [DEBUG] switch_loadable_module.c:952 Chat Thread Ended
+2021-05-16 20:28:42.426542 [DEBUG] switch_loadable_module.c:952 Chat Thread Ended
+2021-05-16 20:28:42.426542 [NOTICE] switch_loadable_module.c:1230 Deleting Dialplan 'signalwire'
+2021-05-16 20:28:42.426542 [NOTICE] switch_loadable_module.c:1318 Deleting API Function 'signalwire'
+2021-05-16 20:28:42.426542 [DEBUG] switch_loadable_module.c:1320 Write lock interface 'signalwire' to wait for existing references.
+2021-05-16 20:28:42.426542 [CONSOLE] switch_loadable_module.c:2396 Stopping: mod_signalwire
+2021-05-16 20:28:42.426542 [INFO] mod_signalwire.c:964 Disconnecting from SignalWire
+2021-05-16 20:28:42.426542 [DEBUG] switch_event.c:2147 Event Binding deleted for mod_signalwire:MODULE_LOAD
+2021-05-16 20:28:42.426542 [DEBUG] switch_event.c:2147 Event Binding deleted for mod_signalwire:MODULE_UNLOAD
+2021-05-16 20:28:42.426542 [DEBUG] switch_event.c:2147 Event Binding deleted for mod_signalwire:CUSTOM
